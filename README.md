@@ -1,1 +1,3 @@
 # odin-recipes
+hi, uhh, lets meet again...
+this time i am adding css after doing css foundations (^_^)
